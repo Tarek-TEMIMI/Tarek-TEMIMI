@@ -1,5 +1,5 @@
 ### Tarek Temimi
-**White-label development partner for agencies, startups & SMEs in the Gulf** — Senior AI builder
+**White-label development partner for agencies, startups & SMEs, MENA, Golf , Europe** — Senior AI builder
 
 SaaS · ERP · E-commerce · AI agents · and any other web software your clients need
 
