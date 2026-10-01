@@ -1,45 +1,50 @@
 ### Tarek Temimi
-Founding Engineer — AI-native product studio
+**White-label development partner for agencies, startups & SMEs in the Gulf** — Senior AI builder
 
-CRO/UX · Multi-tenant SaaS · CI/CD · AI agents
+SaaS · ERP · E-commerce · AI agents · and any other web software your clients need
 
-[studio.learnwithtarek.com](https://studio.learnwithtarek.com) · [LinkedIn](https://www.linkedin.com/in/tarektemimi) · [Book a call](https://studio.learnwithtarek.com/en#contact)
+[Portfolio](https://studio.learnwithtarek.com/en#portfolio) · [studio.learnwithtarek.com](https://studio.learnwithtarek.com) · [LinkedIn](https://www.linkedin.com/in/tarektemimi) · [Get a fixed quote in 48h](https://studio.learnwithtarek.com/en#contact)
 
-I design, build and run complete web products — solo, paired with fleets of AI coding agents under a disciplined review process. Frontend, backend, database, infrastructure, deployment: one person accountable for the whole build, no handoffs.
+Not an agency: one senior engineer leading a team of AI agents. The agents do the volume — scaffolding, tests, first drafts — and I make every architectural call and review everything that ships. Agencies get delivery capacity under their own brand; startups and SMEs get a product team that takes them from scope to production.
 
-19+ products shipped end-to-end · 9 apps running on one shared VPS · Multi-tenant SaaS architectures across EdTech, travel, retail & security
+**15+ years in software · 20+ products shipped to production · 3 multi-tenant SaaS platforms · 7 Arabic e-commerce stores live in Kuwait**
 
 ### What I build
 
-| Domain | What I do | Outcome |
-|---|---|---|
-| Product build | Interface, API, database, auth, deployment, monitoring | A running product on your own infrastructure, week one onward |
-| Multi-tenant SaaS | Per-tenant data isolation, security audits, dev→staging→prod pipelines | Architecture that scales past the first client |
-| Commerce | Storefronts, gamified e-commerce, checkout, loyalty | Fork-and-specialize from one production-grade core |
-| AI engineering | Agent workflows, constraint solvers, automation pipelines | Real product features, not demos |
-
-### Selected work
-
-| Project | What it demonstrates |
+| Area | Examples |
 |---|---|
-| [One core, eight storefronts](https://studio.learnwithtarek.com/en/article/kuwait-storefronts) | Next.js + Fastify + PostgreSQL/Drizzle foundation forked into 8 independent Kuwait storefronts, each its own domain and server |
-| [SIEP — Private school ERP](https://studio.learnwithtarek.com/en/article/siep) | Multi-tenant SaaS, one PostgreSQL schema per school, full security audit (19/19 controllers) |
-| [Edutime — AI timetabling](https://studio.learnwithtarek.com/en/article/edutime) | CP-SAT constraint solver, bilingual FR/AR with RTL |
-| [ERP-Classic — Industrial ERP](https://studio.learnwithtarek.com/en/article/erp-classic) | Offline-first PWA point of sale, omnichannel e-commerce sync |
-| [This profile's site & CMS](https://studio.learnwithtarek.com/en/article/lwt-studio) | Own studio site: page-builder CMS, bilingual, CI/CD to a shared VPS, built end to end with Claude Code |
+| SaaS platforms | Multi-tenant architecture, subscriptions, admin and customer portals |
+| ERP & business software | Inventory, production, finance, schools — tailored to the business, not bent to a generic tool |
+| E-commerce | Arabic-first stores with KNET, Apple Pay, MyFatoorah, Tabby, Tamara and Aramex built in |
+| AI & automation | AI agents wired into real business systems, n8n workflows, integrations |
+| Anything else on the web | Corporate sites & CMS, internal tools, migrations, integrations |
 
-### Engineering principles
+### How I work with partners
 
-- Ship to a real URL from week one — never demo from a laptop
-- Typed end to end, tenant isolation audited, tests on the critical paths
-- Your domain, your GitHub, your server — no lock-in
-- Document the handover: architecture notes, runbook, environment setup
-- Nothing ships that I can't explain, agent-written or not
+- **White-label for agencies** — delivered under your brand, under NDA; I never contact your client
+- **Fixed scope, price and date in writing** before work starts — quote within 48 hours
+- **Payment by milestone**, each one deployed to a URL you can test before it's invoiced
+- **No lock-in** — your GitHub, your server, your domain from the first commit
+- **Run, not just build** — CI/CD, monitoring, backups and security on production servers, or a documented handover
+- Arabic, English and French · based in Tunis, working remotely across the GCC
+
+### Selected live work
+
+| Project | What it shows |
+|---|---|
+| [One core, seven live storefronts](https://studio.learnwithtarek.com/en/article/kuwait-storefronts) | One production e-commerce core forked per client — a new store went live on its own domain the day after the fork |
+| [Link-Travel SaaS & GDS aggregator](https://studio.learnwithtarek.com/en/article/link-travel) | Multi-agency travel SaaS, GDS data aggregator and AI travel bot |
+| [Sola — AI travel booking agent](https://studio.learnwithtarek.com/en/article/sola) | AI agent connected to GDS systems: −50% response time, +30% confirmed bookings |
+| [SIEP — Private school ERP](https://studio.learnwithtarek.com/en/article/siep) | Multi-tenant SaaS, one PostgreSQL schema per school, 19/19 API controllers secured |
+| [The Manager — Influencer platform](https://studio.learnwithtarek.com/en/article/the-manager-influencers) | Brand-to-creator platform for Kuwait, built in 5 days with restore-tested daily backups |
+| [IDC — Institutional CMS](https://studio.learnwithtarek.com/en/article/idc-cms) | Bilingual custom CMS replacing WordPress for a Kuwaiti think tank |
+
+→ [See the full portfolio](https://studio.learnwithtarek.com/en#portfolio)
 
 ### Stack
 
-Next.js · React · TypeScript · Tailwind CSS · NestJS · Node.js/Express · FastAPI · PostgreSQL · Prisma · Supabase · Docker · GitHub Actions CI/CD · VPS/Nginx/PM2 · Claude Code · n8n
+Next.js · React · TypeScript · NestJS · Laravel · Node.js · FastAPI · PostgreSQL · Prisma · Supabase · Flutter · Docker · GitHub Actions · Nginx/PM2 · n8n · Claude Code
 
 ---
 
-Tunis · Kuwait · Remote — [tarek.temimi@gmail.com](mailto:tarek.temimi@gmail.com)
+Tunis · Remote across the GCC — [tarek.temimi@gmail.com](mailto:tarek.temimi@gmail.com) · [WhatsApp](https://wa.me/21623267317)
