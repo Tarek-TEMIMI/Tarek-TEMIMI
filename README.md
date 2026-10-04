@@ -32,7 +32,7 @@ Not an agency: one senior engineer leading a team of AI agents. The agents do th
 
 | Project | What it shows |
 |---|---|
-| [One core, seven live storefronts](https://studio.learnwithtarek.com/en/article/kuwait-storefronts) | One production e-commerce core forked per client — a new store went live on its own domain the day after the fork |
+| [One core, five live storefronts](https://studio.learnwithtarek.com/en/article/kuwait-storefronts) | One production e-commerce core (Next.js, Fastify, PostgreSQL/Drizzle, Redis) forked per client — a new store went live on its own domain the day after the fork |
 | [Link-Travel SaaS & GDS aggregator](https://studio.learnwithtarek.com/en/article/link-travel) | Multi-agency travel SaaS, GDS data aggregator and AI travel bot |
 | [Sola — AI travel booking agent](https://studio.learnwithtarek.com/en/article/sola) | AI agent connected to GDS systems: −50% response time, +30% confirmed bookings |
 | [SIEP — Private school ERP](https://studio.learnwithtarek.com/en/article/siep) | Multi-tenant SaaS, one PostgreSQL schema per school, 19/19 API controllers secured |
